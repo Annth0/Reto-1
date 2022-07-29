@@ -48,7 +48,7 @@ public class BecaUniversitaria {
     } 
 }
 
-//Pruebas 1 2 y 3 del bor para verificar si ejecuta coorrectamente :'v'
+//Pruebas 1 2 y 3 del bor para verificar si ejecuta coorrectamente :'v
 
 
 // BecaUniversitaria becaUniversitaria = new BecaUniversitaria();
